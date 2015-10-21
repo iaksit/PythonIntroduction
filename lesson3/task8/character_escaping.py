@@ -1,0 +1,1 @@
+print("The name of this ice-cream is \"Sweeet'n'Tasty\"")
